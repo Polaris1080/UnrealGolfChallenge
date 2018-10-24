@@ -1,4 +1,4 @@
-GolfChallenge/Binaries/Win64/GolfChallenge-Win64-Shipping.exe	2018-10-13T13:26:28.026Z
+GolfChallenge/Binaries/Win64/GolfChallenge-Win64-Shipping.exe	2018-10-24T04:20:17.157Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2018-06-07T01:57:44.209Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundation_x64.dll	2018-06-26T15:20:51.612Z
 Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDK_x64.dll	2018-06-26T15:20:51.697Z
@@ -14,4 +14,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2018-06-07T01:54
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2018-06-07T01:54:20.686Z
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2018-06-07T01:54:09.560Z
 Engine/Binaries/ThirdParty/Windows/DirectX/x64/WinPixEventRuntime.dll	2018-06-07T01:54:20.861Z
-GolfChallenge.exe	2018-10-13T13:26:49.048Z
+GolfChallenge.exe	2018-10-24T04:20:18.315Z
